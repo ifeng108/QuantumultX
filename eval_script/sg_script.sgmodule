@@ -1,7 +1,7 @@
 #!name=eval_script.js module
 
 [MITM]
-hostname = %INSERT% api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com,8.8.8.8,bea.sportq.com,api.meiyan.com,*.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,app.xunjiepdf.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,bkcd.b-cdn.net,souhu.mett.me,ayk.tmdidi.com,m.pearkin.com,www.baidu.com2.club,claritywallpaper.com,bookapi.ihuman.com,rest.zhibo.tv,note.youdao.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,*.bjxkhc.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,biz.caiyunapp.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.lagoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me
+hostname = %INSERT% api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com,8.8.8.8,bea.sportq.com,api.meiyan.com,*.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,app.xunjiepdf.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,bkcd.b-cdn.net,souhu.mett.me,ayk.tmdidi.com,m.pearkin.com,www.baidu.com2.club,claritywallpaper.com,bookapi.ihuman.com,rest.zhibo.tv,note.youdao.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,*.bjxkhc.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,biz.caiyunapp.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.lagoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me,as.xiaojukeji.com,ios.baertt.com,music.163.com,c.tieba.baidu.com,weibo.com,*.iqiyi.com,*.smzdm.com,*.v2ex.com,www.52pojie.cn,*.bilibili.com,*.feng.com,*.video.qq.com,*.acfun.cn,*.rrys2019.com,mobwsa.ximalaya.com,*.rr.tv,www.flyertea.com,wapside.189.cn,sf-integral-sign-in.weixinjia.net,h5.ele.me,*.you.163.com,apk.tw,api.dongqiudi.com,*.m.163.com,user.qunar.com,yuba.douyu.com,ios.zmzapi.com,*.y.qq.com,*.csdn.net,m.ctrip.com,m.gdoil.cn,credits.bz.mgtv.com,api-takumi.mihoyo.com,act.10010.com,e.189.cn,www.maomicd.com,wx.10086.cn,mtrace.qq.com,www.lltxt.com,weclub.ccc.cmbchina.com,promotion.waimai.meituan.com,i.meituan.com,daojia.jd.com,api-hdcj.9w9.com,api.everphoto.cn,group.baicizhan.com,maicai.api.ddxq.mobi,pm.m.fenqile.com,ms.jr.jd.com,nebula.kuaishou.com,api.dushu.io,node.kg.qq.com,app.nio.com,wxprdapplet.gac-nio.com,activity-1.m.duiba.com.cn,m-bean.kaola.com,110.43.90.61,zt.wps.cn,xiaoshuo.qm989.com,passport.suning.com,luckman.suning.com,sign.suning.com,gameapi.suning.com,m.ximalaya.com,iphone.myzaker.com,draw.jdfcloud.com,sapi.beingfine.cn,icbc1.wlphp.com,wx.17u.cn,frodo.douban.com,mcs-mimp-web.sf-express.com,gameapi.hellobike.com,mwegame.qq.com,api.1sapp.com,tieba.baidu.com,app.jf.360.cn,pay.sc.weibo.com,api.inews.qq.com,newsapi.sina.cn,*.youth.cn,apiwz.midukanshu.com,www.duokan.com
 
 [Script]
 eval_script.js = type=http-response,requires-body=1,pattern=^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua),script-path=eval_script.js
@@ -333,3 +333,201 @@ eval_script.js = type=http-request,pattern=^https?://ios\.prod\.ftl\.netflix\.co
 eval_script.js = type=http-response,requires-body=1,pattern=^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D,script-path=eval_script.js
 
 eval_script.js = type=http-response,requires-body=1,pattern=^https?://ios\.prod\.ftl\.netflix\.com/iosui/warmer/.+type=show-ath,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https?:\/\/.*\.iqiyi\.com\/.*authcookie=,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https?:\/\/c\.tieba\.baidu\.com\/c\/s\/login,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/www\.52pojie\.cn\/home\.php\?mod=space,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/manga\.bilibili\.com\/.*\.User\/GetWallet,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/music.163.com\/weapi\/user\/level,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/www\.smzdm\.com\/?.?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/www\.v2ex\.com\/mission\/daily,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/(www|live)\.bilibili\.com\/?.?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/(www\.)?feng\.com\/?.?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/access.video.qq.com\/user\/auth_refresh,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https?:\/\/v.qq.com\/x\/bu\/mobile_checkin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\-new\.app\.acfun\.cn\/rest\/app\/user\/personalInfo,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https?:\/\/(www\.)?rrys2019\.com\/?.?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^http:\/\/ios.zmzapi.com\/index.php.*a=(mobile_)?login,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https?:\/\/.*\/mobile\-user\/homePage\/.*,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\.rr\.tv\/user\/profile,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=getdata&.*,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/sf-integral-sign-in.weixinjia.net\/app\/index,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/mcs-mimp-web.sf-express.com\/mcs-mimp\/share\/(.*?)Redirect,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/wapside.189.cn:9001\/api\/home\/sign,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\.dongqiudi\.com\/v2\/user\/is_login,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/m\.you\.163\.com\/xhr\/points\/index\.json,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/apk\.tw\/?.?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/user.qunar.com\/webapi\/member\/signIndexV2.htm,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^^https:\/\/passport.csdn.net\/v2\/api\/app\/login\/checkAndRefreshToken,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/gw.csdn.net\/mini-app\/v2\/lucky_draw\/login\/sign_in\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/credits.bz.mgtv.com\/user\/creditsTake,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/m.gdoil.cn\/webapi\/usersign\/addusersign,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/www.maomicd.com\/plugin.php\?id=k_misign:sign&operation=qiandao,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^http:\/\/wx.10086.cn\/website\/taskCenter\/index\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api-takumi.mihoyo.com\/apihub\/api\/getGameList,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/act.10010.com\/SigninApp\/signin\/querySigninActivity.htm,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/act.10010.com\/SigninApp(.*?)\/signin\/daySign,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/m.client.10010.com\/dailylottery\/static\/(textdl\/userLogin|active\/findActivityInfo),script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/(.*?)c\.m\.163\.com\/uc\/api\/sign\/v3\/commit,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg,script-path=eval_script.js
+
+eval_script.js = type=http-response,requires-body=1,pattern=^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api.everphoto.cn\/users\/self\/checkin\/v2,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https://group\.baicizhan\.com/group/rewards?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/maicai.api.ddxq.mobi\/point\/home,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https://pm\.m\.fenqile\.com/route0014/star/sign/sign.json,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/pm\.m\.fenqile\.com/route0014\/app\/tab\/privilege\/convertTaskReward.json,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https://api\.dushu\.io/CheckIn,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https://node\.kg\.qq\.com/webapp/proxy?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/app\.nio\.com\/api\/1\/app\/daily_checkin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/wxprdapplet\.gac-nio\.com\/community\/userSignIn\/simpleAuth\/front\/.*\/sign$,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/activity-1\.m\.duiba\.com\.cn\/signactivity\/doSign$,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/m-bean\.kaola\.com/m/point/sign\.html,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/zt.wps.cn\/2018\/docer_check_in\/api\/act_list,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/xiaoshuo\.qm989\.com,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/passport.suning.com\/ids\/login$,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/luckman.suning.com\/luck-web\/sign\/api\/clock_sign.do,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/sign.suning.com\/sign-web\/m\/promotion\/sign\/doSign.do,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/gameapi.suning.com\/sngame-web\/(api\/signin\/private\/customerSignOperation.do|gateway\/api\/queryPrize.do),script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/iphone\.myzaker\.com\/zaker\/sign_in\/\/api\/sign_in\.php,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/sapi\.beingfine\.cn\/v3\/bb\/reward\/by-sign-in,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/frodo\.douban\.com\/api\/v2\/niffler\/check_in\/status,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/gameapi\.hellobike\.com\/api,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/mwegame\.qq\.com\/ams\/sign\/doSign\/month,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\.1sapp\.com\/sign\/info?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\.1sapp\.com\/content\/readV2?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api\.1sapp\.com\/x\/feed\/getReward?,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/apiwz\.midukanshu\.com,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/www\.duokan\.com\/checkin\/v0\/status,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/api.m.jd.com\/client.action\?functionId=cakebaker_getHomeData,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/note.youdao.com\/yws\/mapi\/user\?method=checkin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/weibo\.com\/p\/aj\/general\/button\?ajwvr=6&api=http:\/\/i\.huati\.weibo\.com\/aj\/super\/checkin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https://yuba.douyu.com/wbapi/web/group/myFollow,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/m\.ctrip\.com\/restapi\/soa2\/14946\/json\/userBaseInfo,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/bt\/h5\/m\/queryUserSignFlow,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/icbc1\.wlphp\.com:8444\/js\/api\/index\/signIn,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=^https:\/\/wx\.17u\.cn\/wcsign\/sign\/GetSignInfo,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/daojia\.jd\.com\/client\?_jdrandom=\d{13}&functionId=%2Fsignin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/nebula\.kuaishou\.com\/rest\/n\/nebula\/activity\/earn\/overview,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/draw\.jdfcloud\.com\/\/api\/bean\/square\/silverBean\/task\/get\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=http:\/\/act\.gaoqingdianshi\.com\/\/api\/v4\/sign\/signin\?accelerate=0&ext=0&ticket=,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=http:\/\/api\.gaoqingdianshi\.com\/api\/v2\/cash\/withdrawal\?code=,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https?:\/\/e\.189\.cn\/store\/user\/package_detail\.do,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/api\.weibo\.cn\/\d\/video\/machine\?gsid,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/pay\.sc\.weibo\.com\/aj\/mobile\/home\/welfare\/signin\/do\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/newsapi\.sina\.cn\/\?resource=hbpage&newsId=HB-1-sina_gold_center,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/newsapi\.sina\.cn\/\?resource=userpoint\/signIn,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign),script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=https?:\/\/ios\.baertt\.com\/v5\/article\/complete,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/red_packet,script-path=eval_script.js
+
+eval_script.js = type=http-request,requires-body=1,pattern=https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/www\.lltxt\.com/hack\.php\?H_name=qiandao&action=qiandao,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https://weclub\.ccc\.cmbchina.com/SCRMCustomActivityFront/checkin/request/get-home-data\.json\?activityCode=checkin,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/api-hdcj\.9w9\.com\/v\d\/sign,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=https://m.ximalaya.com/wechat/,script-path=eval_script.js
+
+eval_script.js = type=http-request,pattern=^https://app.jf.360.cn/signin/index/index,script-path=eval_script.js
