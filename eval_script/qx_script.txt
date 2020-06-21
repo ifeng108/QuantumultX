@@ -1,4 +1,208 @@
-hostname = api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com,8.8.8.8,bea.sportq.com,api.meiyan.com,*.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,app.xunjiepdf.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,bkcd.b-cdn.net,souhu.mett.me,ayk.tmdidi.com,m.pearkin.com,www.baidu.com2.club,claritywallpaper.com,bookapi.ihuman.com,rest.zhibo.tv,note.youdao.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,*.bjxkhc.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,biz.caiyunapp.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.lagoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me
+hostname = api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com,8.8.8.8,bea.sportq.com,api.meiyan.com,*.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,app.xunjiepdf.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,bkcd.b-cdn.net,souhu.mett.me,ayk.tmdidi.com,m.pearkin.com,www.baidu.com2.club,claritywallpaper.com,bookapi.ihuman.com,rest.zhibo.tv,note.youdao.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,*.bjxkhc.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,biz.caiyunapp.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.lagoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me,proapi.115.com,proxy.vac.qq.com,*.xmcimg.com,as.xiaojukeji.com,ios.baertt.com,music.163.com,c.tieba.baidu.com,weibo.com,*.iqiyi.com,*.smzdm.com,*.v2ex.com,www.52pojie.cn,*.bilibili.com,*.feng.com,*.video.qq.com,*.acfun.cn,*.rrys2019.com,mobwsa.ximalaya.com,*.rr.tv,www.flyertea.com,wapside.189.cn,sf-integral-sign-in.weixinjia.net,h5.ele.me,*.you.163.com,apk.tw,api.dongqiudi.com,*.m.163.com,user.qunar.com,yuba.douyu.com,ios.zmzapi.com,*.y.qq.com,*.csdn.net,m.ctrip.com,m.gdoil.cn,credits.bz.mgtv.com,api-takumi.mihoyo.com,act.10010.com,e.189.cn,www.maomicd.com,wx.10086.cn,mtrace.qq.com,www.lltxt.com,weclub.ccc.cmbchina.com,promotion.waimai.meituan.com,i.meituan.com,daojia.jd.com,api-hdcj.9w9.com,api.everphoto.cn,group.baicizhan.com,maicai.api.ddxq.mobi,pm.m.fenqile.com,ms.jr.jd.com,nebula.kuaishou.com,api.dushu.io,node.kg.qq.com,app.nio.com,wxprdapplet.gac-nio.com,activity-1.m.duiba.com.cn,m-bean.kaola.com,110.43.90.61,zt.wps.cn,xiaoshuo.qm989.com,passport.suning.com,luckman.suning.com,sign.suning.com,gameapi.suning.com,m.ximalaya.com,iphone.myzaker.com,draw.jdfcloud.com,sapi.beingfine.cn,icbc1.wlphp.com,wx.17u.cn,frodo.douban.com,mcs-mimp-web.sf-express.com,gameapi.hellobike.com,mwegame.qq.com,api.1sapp.com,tieba.baidu.com,app.jf.360.cn,pay.sc.weibo.com,api.inews.qq.com,newsapi.sina.cn,*.youth.cn,apiwz.midukanshu.com,www.duokan.com
+
+https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header eval_script.js
+
+https?:\/\/.*\.iqiyi\.com\/.*authcookie= url script-request-header eval_script.js
+
+https?:\/\/c\.tieba\.baidu\.com\/c\/s\/login url script-request-header eval_script.js
+
+https:\/\/www\.52pojie\.cn\/home\.php\?mod=space url script-request-header eval_script.js
+
+https:\/\/manga\.bilibili\.com\/.*\.User\/GetWallet url script-request-header eval_script.js
+
+^https:\/\/music.163.com\/weapi\/user\/level url script-request-body eval_script.js
+
+^https:\/\/www\.smzdm\.com\/?.? url script-request-header eval_script.js
+
+^https:\/\/www\.v2ex\.com\/mission\/daily url script-request-header eval_script.js
+
+^https:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header eval_script.js
+
+^https:\/\/(www\.)?feng\.com\/?.? url script-request-header eval_script.js
+
+^https:\/\/access.video.qq.com\/user\/auth_refresh url script-request-header eval_script.js
+
+^https?:\/\/v.qq.com\/x\/bu\/mobile_checkin url script-request-header eval_script.js
+
+^https:\/\/api\-new\.app\.acfun\.cn\/rest\/app\/user\/personalInfo url script-request-header eval_script.js
+
+^https?:\/\/(www\.)?rrys2019\.com\/?.? url script-request-header eval_script.js
+
+^http:\/\/ios.zmzapi.com\/index.php.*a=(mobile_)?login url script-request-header eval_script.js
+
+^https?:\/\/.*\/mobile\-user\/homePage\/.* url script-request-header eval_script.js
+
+^https:\/\/api\.rr\.tv\/user\/profile url script-request-header eval_script.js
+
+^https:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=getdata&.* url script-request-header eval_script.js
+
+^https:\/\/sf-integral-sign-in.weixinjia.net\/app\/index url script-request-header eval_script.js
+
+^https:\/\/mcs-mimp-web.sf-express.com\/mcs-mimp\/share\/(.*?)Redirect url script-request-header eval_script.js
+
+^https:\/\/wapside.189.cn:9001\/api\/home\/sign url script-request-body eval_script.js
+
+^https:\/\/api\.dongqiudi\.com\/v2\/user\/is_login url script-request-header eval_script.js
+
+^https:\/\/m\.you\.163\.com\/xhr\/points\/index\.json url script-request-header eval_script.js
+
+^https:\/\/apk\.tw\/?.? url script-request-header eval_script.js
+
+^https:\/\/user.qunar.com\/webapi\/member\/signIndexV2.htm url script-request-header eval_script.js
+
+^^https:\/\/passport.csdn.net\/v2\/api\/app\/login\/checkAndRefreshToken url script-request-header eval_script.js
+
+^https:\/\/gw.csdn.net\/mini-app\/v2\/lucky_draw\/login\/sign_in\? url script-request-header eval_script.js
+
+^https:\/\/credits.bz.mgtv.com\/user\/creditsTake url script-request-header eval_script.js
+
+^https:\/\/m.gdoil.cn\/webapi\/usersign\/addusersign url script-request-header eval_script.js
+
+https:\/\/www.maomicd.com\/plugin.php\?id=k_misign:sign&operation=qiandao url script-request-header eval_script.js
+
+^http:\/\/wx.10086.cn\/website\/taskCenter\/index\? url script-request-header eval_script.js
+
+^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\? url script-request-header eval_script.js
+
+^https:\/\/api-takumi.mihoyo.com\/apihub\/api\/getGameList url script-request-header eval_script.js
+
+^https:\/\/act.10010.com\/SigninApp\/signin\/querySigninActivity.htm url script-request-header eval_script.js
+
+^https:\/\/act.10010.com\/SigninApp(.*?)\/signin\/daySign url script-request-header eval_script.js
+
+^https:\/\/m.client.10010.com\/dailylottery\/static\/(textdl\/userLogin|active\/findActivityInfo) url script-request-header eval_script.js
+
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry url script-request-header eval_script.js
+
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction url script-request-header eval_script.js
+
+^https:\/\/(.*?)c\.m\.163\.com\/uc\/api\/sign\/v3\/commit url script-request-body eval_script.js
+
+^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg url script-request-body eval_script.js
+
+^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg url script-response-body eval_script.js
+
+^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/ url script-request-body eval_script.js
+
+^https:\/\/api.everphoto.cn\/users\/self\/checkin\/v2 url script-request-header eval_script.js
+
+^https://group\.baicizhan\.com/group/rewards? url script-request-header eval_script.js
+
+^https:\/\/maicai.api.ddxq.mobi\/point\/home url script-request-header eval_script.js
+
+^https://pm\.m\.fenqile\.com/route0014/star/sign/sign.json url script-request-body eval_script.js
+
+^https:\/\/pm\.m\.fenqile\.com/route0014\/app\/tab\/privilege\/convertTaskReward.json url script-request-body eval_script.js
+
+^https://api\.dushu\.io/CheckIn url script-request-body eval_script.js
+
+^https://node\.kg\.qq\.com/webapp/proxy? url script-request-body eval_script.js
+
+^https:\/\/app\.nio\.com\/api\/1\/app\/daily_checkin url script-request-header eval_script.js
+
+^https:\/\/wxprdapplet\.gac-nio\.com\/community\/userSignIn\/simpleAuth\/front\/.*\/sign$ url script-request-header eval_script.js
+
+^https:\/\/activity-1\.m\.duiba\.com\.cn\/signactivity\/doSign$ url script-request-body eval_script.js
+
+^https:\/\/m-bean\.kaola\.com/m/point/sign\.html url script-request-body eval_script.js
+
+^https:\/\/zt.wps.cn\/2018\/docer_check_in\/api\/act_list url script-request-header eval_script.js
+
+^https:\/\/xiaoshuo\.qm989\.com url script-request-header eval_script.js
+
+^https:\/\/passport.suning.com\/ids\/login$ url script-request-body eval_script.js
+
+^https:\/\/luckman.suning.com\/luck-web\/sign\/api\/clock_sign.do url script-request-header eval_script.js
+
+^https:\/\/sign.suning.com\/sign-web\/m\/promotion\/sign\/doSign.do url script-request-header eval_script.js
+
+^https:\/\/gameapi.suning.com\/sngame-web\/(api\/signin\/private\/customerSignOperation.do|gateway\/api\/queryPrize.do) url script-request-header eval_script.js
+
+^https:\/\/iphone\.myzaker\.com\/zaker\/sign_in\/\/api\/sign_in\.php url script-request-header eval_script.js
+
+^https:\/\/sapi\.beingfine\.cn\/v3\/bb\/reward\/by-sign-in url script-request-header eval_script.js
+
+^https:\/\/frodo\.douban\.com\/api\/v2\/niffler\/check_in\/status url script-request-header eval_script.js
+
+^https:\/\/gameapi\.hellobike\.com\/api url script-request-body eval_script.js
+
+^https:\/\/mwegame\.qq\.com\/ams\/sign\/doSign\/month url script-request-header eval_script.js
+
+^https:\/\/api\.1sapp\.com\/sign\/info? url script-request-header eval_script.js
+
+^https:\/\/api\.1sapp\.com\/content\/readV2? url script-request-header eval_script.js
+
+^https:\/\/api\.1sapp\.com\/x\/feed\/getReward? url script-request-header eval_script.js
+
+^https:\/\/apiwz\.midukanshu\.com url script-request-body eval_script.js
+
+^https:\/\/www\.duokan\.com\/checkin\/v0\/status url script-request-body eval_script.js
+
+^https:\/\/api.m.jd.com\/client.action\?functionId=cakebaker_getHomeData url script-request-body eval_script.js
+
+^https:\/\/note.youdao.com\/yws\/mapi\/user\?method=checkin url script-request-body eval_script.js
+
+^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$ url script-request-header eval_script.js
+
+https://yuba.douyu.com/wbapi/web/group/myFollow url script-request-header eval_script.js
+
+https:\/\/m\.ctrip\.com\/restapi\/soa2\/14946\/json\/userBaseInfo url script-request-header eval_script.js
+
+^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/bt\/h5\/m\/queryUserSignFlow url script-request-header eval_script.js
+
+^https:\/\/icbc1\.wlphp\.com:8444\/js\/api\/index\/signIn url script-request-body eval_script.js
+
+^https:\/\/wx\.17u\.cn\/wcsign\/sign\/GetSignInfo url script-request-body eval_script.js
+
+https:\/\/daojia\.jd\.com\/client\?_jdrandom=\d{13}&functionId=%2Fsignin url script-request-header eval_script.js
+
+https:\/\/nebula\.kuaishou\.com\/rest\/n\/nebula\/activity\/earn\/overview url script-request-header eval_script.js
+
+https:\/\/draw\.jdfcloud\.com\/\/api\/bean\/square\/silverBean\/task\/get\? url script-request-header eval_script.js
+
+http:\/\/act\.gaoqingdianshi\.com\/\/api\/v4\/sign\/signin\?accelerate=0&ext=0&ticket= url script-request-header eval_script.js
+
+http:\/\/api\.gaoqingdianshi\.com\/api\/v2\/cash\/withdrawal\?code= url script-request-header eval_script.js
+
+^https?:\/\/e\.189\.cn\/store\/user\/package_detail\.do url script-request-header eval_script.js
+
+https:\/\/api\.weibo\.cn\/\d\/video\/machine\?gsid url script-request-header eval_script.js
+
+https:\/\/pay\.sc\.weibo\.com\/aj\/mobile\/home\/welfare\/signin\/do\? url script-request-header eval_script.js
+
+https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\? url script-request-header eval_script.js
+
+https:\/\/newsapi\.sina\.cn\/\?resource=hbpage&newsId=HB-1-sina_gold_center url script-request-header eval_script.js
+
+https:\/\/newsapi\.sina\.cn\/\?resource=userpoint\/signIn url script-request-header eval_script.js
+
+https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign) url script-request-header eval_script.js
+
+https?:\/\/ios\.baertt\.com\/v5\/article\/complete url script-request-body eval_script.js
+
+https:\/\/ios\.baertt\.com\/v5\/article\/red_packet url script-request-body eval_script.js
+
+https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body eval_script.js
+
+^https:\/\/www\.lltxt\.com/hack\.php\?H_name=qiandao&action=qiandao url script-request-header eval_script.js
+
+https://weclub\.ccc\.cmbchina.com/SCRMCustomActivityFront/checkin/request/get-home-data\.json\?activityCode=checkin url script-request-header eval_script.js
+
+^https:\/\/api-hdcj\.9w9\.com\/v\d\/sign url script-request-header eval_script.js
+
+^https:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\? url script-request-header eval_script.js
+
+^https?:\/\/proapi\.115\.com\/ios\/user\/takespc\? url script-request-header eval_script.js
+
+https://m.ximalaya.com/wechat/ url script-request-header eval_script.js
+
+^https://app.jf.360.cn/signin/index/index url script-request-header eval_script.js
+
+^https:\/\/api\.weibo\.cn\/2\/(cardlist|page\/button) url script-request-header eval_script.js
+
+^https?:\/\/mapi.xmcimg.com\/bbs\/memcp.php\?action url script-request-header eval_script.js
+
+https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header eval_script.js
 
 ^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) url script-response-body eval_script.js
 
